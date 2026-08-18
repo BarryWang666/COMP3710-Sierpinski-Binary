@@ -1,0 +1,5 @@
+outputs/*.out
+outputs/*.err
+__pycache__/
+*.pyc
+.DS_Store
